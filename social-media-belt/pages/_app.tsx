@@ -18,7 +18,6 @@ function MyApp({ Component, pageProps }: AppProps) {
   }
   return (
     <Layout>
-      <pre>{JSON.stringify(pathname)}</pre>
       <Component {...pageProps} />
     </Layout>
   );
