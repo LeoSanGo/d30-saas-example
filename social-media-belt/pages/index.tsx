@@ -6,7 +6,7 @@ import Seo from 'components/SEO';
 
 const Home: NextPage = () => {
   return (
-    <div className=''>
+    <div className={''}>
       <Seo title='Social Media Belt' description='Social media Belt' />
 
       <ul>

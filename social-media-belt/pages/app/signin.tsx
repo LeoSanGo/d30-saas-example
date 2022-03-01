@@ -1,5 +1,5 @@
 const SighIn = () => {
-  return <h1>Sign-in</h1>
-}
+  return <h1>Sign-in</h1>;
+};
 
-export default SighIn
+export default SighIn;

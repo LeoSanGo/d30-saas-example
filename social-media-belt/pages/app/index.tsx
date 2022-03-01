@@ -1,5 +1,4 @@
-const AppHome = () => {
-  return (
+const AppHome = () => (
     <>
       <h1 className='text-4xl font-semibold text-gray-800 dark:text-white'>
         Good afternoom, Charlie
@@ -605,6 +604,5 @@ const AppHome = () => {
       </div>
     </>
   )
-}
-
+  
 export default AppHome
